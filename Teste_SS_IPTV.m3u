@@ -1,0 +1,129 @@
+#EXTM3U
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/co7TCWC.png" group-title="Notícias", Canal 38
+https://cdn.jmvstream.com/w/LVW-8503/LVW8503_d0V5oduFlK/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/wULpnYR.png" group-title="Esportes", All Sports
+https://5cf4a2c2512a2.streamlock.net/dgrau/dgrau/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/7rjCS5i.png" group-title="Variedades", Amazon Sat
+https://amazonsat.brasilstream.com.br/hls/amazonsat/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/ifGQGJx.png" group-title="Variedades", Bem TV MS SBT
+http://wz4.dnip.com.br/bemtv/bemtv.sdp/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/ZqhizdP.png" group-title="Religioso", Boas Novas
+https://cdn.jmvstream.com/w/LVW-9375/LVW9375_6i0wPBCHYc/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Ms5tSgu.png" group-title="Religioso", Boa Vontade TV
+https://ythls.armelin.one/channel/UCedt33latJW7StRfdF4-1FQ.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/k29So6X.png" group-title="Agro Pecuária", Canal do Criador
+https://607d2a1a47b1f.streamlock.net/crur/smil:canaldocriador.smil/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/TQFWEIS.png" group-title="Esportes", Canal do Inter
+https://video01.soultv.com.br/internacional/internacional/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/OOB7nrS.png" group-title="Educação", Canal Educação
+https://canaleducacao-stream.ebc.com.br/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://listaiptv.gratis/wp-content/uploads/2023/07/canalgov.png" group-title="Pública", Canal Gov
+https://canalgov-stream.ebc.com.br/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/LnWWKzP.png" group-title="Pública", Canal Libras
+https://canallibras-stream.ebc.com.br/mux_video_ts/index-1.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/qiVfsfB.png" group-title="Pública", Catve2 Câmeras ao Vivo
+https://5b33b873179a2.streamlock.net:1443/catve2/catve2/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/4m7Iazm.png" group-title="Variedades", Catve Master TV
+https://5b33b873179a2.streamlock.net:1443/mastertv/livestream/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/SnaIMgj.png" group-title="Variedades", Chroma TV
+https://5c483b9d1019c.streamlock.net/8054/8054/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5f/CNN_Brasil.svg/512px-CNN_Brasil.svg.png" group-title="Variedades", CNN Brasil
+https://ythls.armelin.one/channel/UCvdwhh_fDyWccR42-rReZLw.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/GrjGwKM.png" group-title="Variedades", COM Brasil
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=960
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/XN6jjMR.png" group-title="Notícias", ConecTV Brasil
+https://stream01.msolutionbrasil.com.br/hls/conectv/live.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/CJ9SPsZ.png" group-title="Variedades", Conexao TV
+https://5a57bda70564a.streamlock.net/conexaotv/conexaotv.sdp/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f4/DiaTV.webp/1920px-DiaTV.webp.png" group-title="Variedades", DiaTV
+https://ythls-v2.onrender.com/channel/UCKnMcgDLxDeq9HqUgLhtYbQ.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/1eHNe91.png" group-title="Religioso", ElyTV
+https://stmv1.srvsite.com/ely/ely/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/8PxpamC.png" group-title="Notícias", EUTV
+https://cdn.jmvstream.com/w/LVW-8719/LVW8719_AcLVAxWy5J/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/NF6PL8O.png" group-title="Música", Fala Litoral
+https://5c483b9d1019c.streamlock.net/falalitoraltv/falalitoraltv/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/45V9MKk.png" group-title="Filmes", Pluto Filmes Suspense
+https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5f171d3442a0500007362f22/master.m3u8?advertisingId=channel&appName=rokuchannel&appVersion=1.0&bmodel=bm1&channel_id=channel&content=channel&content_rating=ROKU_ADS_CONTENT_RATING&content_type=livefeed&coppa=false&deviceDNT=1&deviceId=channel&deviceMake=rokuChannel&deviceModel=web&deviceType=rokuChannel&deviceVersion=1.0&embedPartner=rokuChannel&genre=ROKU_ADS_CONTENT_GENRE&is_lat=1&platform=web&rdid=channel&studio_id=viacom&tags=ROKU_CONTENT_TAGS
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/yxjPno5.png" group-title="Música", Gospel Cartoon
+https://stmv1.srvif.com/gospelcartoon/gospelcartoon/playlist.m3u8
+
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/23m7LHH.png" group-title="Música", IMPD TV (Igreja Mundial)
+https://58a4464faef53.streamlock.net/impd/ngrp:impd_all/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/RUKVrOH.png" group-title="Notícias", ISTV
+https://stmv1.srvstm.com/sistema7933/sistema7933/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/26/Jovem_Pan_logo_2018.svg/512px-Jovem_Pan_logo_2018.svg.png" group-title="Notícias", Jovem Pan News
+https://d6yfbj4xxtrod.cloudfront.net/out/v1/7836eb391ec24452b149f3dc6df15bbd/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Tf0vweF.png" group-title="Música", KpopTV Play
+http://250weu.bozztv.com/ssh101/ssh101/kpoptv/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/haXHFCT.png" group-title="Música", Master Show TV
+https://mastershowtv.videovox.pw/master6123/master6123/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/A8Yhtid.png" group-title="Variedades", MKK Web TV
+https://video01.logicahost.com.br/mkkwebtv/mkkwebtv/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/68/MTV_2021_%28brand_version%29.svg/512px-MTV_2021_%28brand_version%29.svg.png" group-title="Variedades", Pluto MTV
+https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5f1212fb81e85c00077ae9ef/master.m3u8?advertisingId=channel&appName=rokuchannel&appVersion=1.0&bmodel=bm1&channel_id=channel&content=channel&content_rating=ROKU_ADS_CONTENT_RATING&content_type=livefeed&coppa=false&deviceDNT=1&deviceId=channel&deviceMake=rokuChannel&deviceModel=web&deviceType=rokuChannel&deviceVersion=1.0&embedPartner=rokuChannel&genre=ROKU_ADS_CONTENT_GENRE&is_lat=1&platform=web&rdid=channel&studio_id=viacom&tags=ROKU_CONTENT_TAGS
+
+
+
+
+#EXTINF:-1 tvg-logo="https://listaiptv.gratis/logos/imagens/200px-logotipo_da_tv_brasil.png" group-title="Pública", TV Brasil  Web
+https://tvbrasil-stream.ebc.com.br/mux_video_ts/index-1.m3u8
+
+
+#EXTINF:-1 tvg-logo="https://listaiptv.gratis/wp-content/uploads/2023/03/canaleducacao.jpeg" group-title="Pública", Canal Educação
+https://canaleducacao-stream.ebc.com.br/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://listaiptv.gratis/wp-content/uploads/2023/07/canallibras-1.png" group-title="Pública", Canal Libras
+https://canallibras-stream.ebc.com.br/mux_video_ts/index-1.m3u8
+
+#EXTINF:-1 tvg-logo="https://listaiptv.gratis/wp-content/uploads/2023/03/meionorte.png" group-title="Variedades", Meio Norte
+http://streaming.jornalmn.com.br/live/tvmn.m3u8
+
+#EXTINF:-1 tvg-logo="https://listaiptv.gratis/logos/imagens/tvuniaobrasilia.png" group-title="Variedades", TV União (CE)
+https://live.uniaoplus.com/hls/0gmf9QNc7bQ6V0Lu.m3u8
+
+#EXTINF:-1 tvg-logo="https://listaiptv.gratis/logos/imagens/logo-tve-png.png" group-title="Pública", TVE RS
+http://streaming.procergs.com.br:1935/tve/stve/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/XKMFQRl.png" group-title="Filmes", DarkFlix HD
+https://video01.soultv.com.br/darkflix/darkflix/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://listaiptv.gratis/logos/imagens/izkxzj9.png" group-title="Religioso", Novo Tempo
+https://stream.live.novotempo.com/tv/smil:tvnovotempo.smil/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://listaiptv.gratis/logos/imagens/camara.png" group-title="Pública",TV Câmara
+https://stream3.camara.gov.br/tv1/manifest.m3u8
+
+#EXTINF:-1 tvg-logo="https://listaiptv.gratis/logos/imagens/1280px-terra_viva_logo.svg_.png" group-title="Variedades",Terra Viva
+http://evpp.mm.uol.com.br:1935/band_live/terraviva/playlist.m3u8
