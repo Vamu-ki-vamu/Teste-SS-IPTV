@@ -100,6 +100,9 @@ https://stream3.camara.gov.br/tv1/manifest.m3u8
 #EXTINF:-1 tvg-logo="https://listaiptv.gratis/logos/imagens/1280px-terra_viva_logo.svg_.png" group-title="Variedades",Terra Viva
 http://evpp.mm.uol.com.br:1935/band_live/terraviva/playlist.m3u8
 
+
+
+
 #EXTINF:-1 tvg-id="Geekdot.br" group-title="Variedades",Geekdot (720p)
 https://stream.ichibantv.com:3764/hybrid/play.m3u8
 
@@ -112,5 +115,5 @@ http://wz3.dnip.com.br:1935/novaeratv/novaeratv.sdp/live.m3u8
 #EXTINF:-1 tvg-id="NovoTempo.br" group-title="Religioso",Novo Tempo (720p)
 https://stream.live.novotempo.com/tv/smil:tvnovotempo.smil/playlist.m3u8
 
-#EXTINF:-1 tv-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/32958c8ea3b43d234531796cd6b254d6.webp" tvg-id="PlenaTV.br" group-title="Variedades",Plena TV (720p)
+#EXTINF:-1 tvg-id="PlenaTV.br" group-title="Variedades",Plena TV (720p)
 https://cdn.jmvstream.com/w/LVW-9591/LVW9591_PmXtgATnaS/playlist.m3u8
